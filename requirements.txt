@@ -1,0 +1,10 @@
+Flask
+selenium
+webdriver_manager
+beautifulsoup4
+whoosh
+scikit-learn
+pandas
+feedparser
+nltk
+imblearn
